@@ -1,0 +1,51 @@
+question,answer
+What is Python?,Python is a high-level interpreted programming language.
+What is a variable?,A variable is a named storage location used to store data.
+What is a list?,A list is an ordered and mutable collection of elements in Python.
+What is a tuple?,A tuple is an ordered and immutable collection of elements.
+What is a dictionary?,A dictionary stores data in key-value pairs.
+What is a set?,A set is an unordered collection of unique elements.
+What is a string?,A string is a sequence of characters enclosed in quotes.
+What is an integer?,An integer is a whole number without a decimal point.
+What is a float?,A float is a number that contains a decimal point.
+What is a boolean?,A boolean represents either True or False.
+What is a loop?,A loop repeats a block of code multiple times.
+What is a for loop?,A for loop iterates over a sequence such as a list or string.
+What is a while loop?,A while loop executes repeatedly as long as a condition is true.
+What is a function?,A function is a reusable block of code designed to perform a task.
+What is a parameter?,A parameter is a variable specified in a function definition.
+What is an argument?,An argument is a value passed to a function when it is called.
+What is recursion?,Recursion is a technique in which a function calls itself.
+What is a class?,A class is a blueprint for creating objects.
+What is an object?,An object is an instance of a class.
+What is inheritance?,Inheritance allows one class to acquire properties and methods from another class.
+What is polymorphism?,Polymorphism allows different objects to use the same interface with different implementations.
+What is encapsulation?,Encapsulation combines data and methods within a class and controls access to them.
+What is a constructor?,A constructor is a special method used to initialize an object.
+What is exception handling?,Exception handling manages runtime errors using mechanisms such as try and except.
+What is a module?,A module is a Python file containing reusable code.
+What is a package?,A package is a collection of related Python modules.
+What is pip?,Pip is Python's package installer.
+What is a library?,A library is a collection of reusable code that provides useful functionality.
+What is an operator?,An operator performs an operation on one or more values.
+What is indentation?,Indentation defines code blocks in Python.
+What is a conditional statement?,A conditional statement executes code based on whether a condition is true or false.
+What is the if statement?,An if statement executes a block of code when its condition is true.
+What is elif?,Elif checks another condition when previous conditions are false.
+What is else?,Else executes a block when previous conditions are false.
+What is break?,Break terminates the nearest enclosing loop.
+What is continue?,Continue skips the current iteration and moves to the next iteration of a loop.
+What is pass?,Pass is a placeholder statement that performs no operation.
+What is slicing?,Slicing extracts a portion of a sequence using index positions.
+What is indexing?,Indexing accesses an element using its position.
+What is list comprehension?,List comprehension creates a list using a compact expression.
+What is lambda?,A lambda is a small anonymous function defined using the lambda keyword.
+What is a decorator?,A decorator modifies or extends the behavior of a function or class.
+What is a generator?,A generator produces values one at a time using yield.
+What is file handling?,File handling allows Python programs to read and write files.
+What is the append mode?,Append mode adds content to the end of a file.
+What is type casting?,Type casting converts a value from one data type to another.
+What is None?,None represents the absence of a value in Python.
+What is the len function?,The len function returns the number of items in an object.
+What is the range function?,The range function generates a sequence of integers.
+What is the self keyword?,Self refers to the current instance of a class.
